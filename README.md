@@ -1,4 +1,4 @@
-# TextPredictionInC
+# ConwaysInCpp
 Conway's Game of life uses OOP to divide the roles of simulation and graphics. 
 
 ## Final App
